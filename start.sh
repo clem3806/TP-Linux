@@ -1,2 +1,2 @@
 sh hodor.sh
-sh log.sh
+sh log.sh 1000
